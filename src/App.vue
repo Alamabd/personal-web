@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import HeroSection from './components/HeroSection.vue';
 import Nav from './components/Nav.vue';
+import Techstack from './components/Techstack.vue';
+import Projects from './components/Projects.vue';
 </script>
 
 <template>
@@ -10,6 +12,8 @@ import Nav from './components/Nav.vue';
     </Header>
     <main>
       <HeroSection />
+      <Techstack />
+      <Projects />
     </main>
   </div>
 </template>

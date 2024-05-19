@@ -14,12 +14,12 @@
                         <summary>
                             more
                         </summary>
-                        <ul class="absolute right-0 p-2 bg-base-100 rounded-t-none">
-                            <li>
-                                <a>Project</a>
-                            </li>
+                        <ul class="absolute z-10 right-0 p-2 bg-base-100 rounded-t-none">
                             <li>
                                 <a class="text-nowrap">tech stack</a>
+                            </li>
+                            <li>
+                                <a>Project</a>
                             </li>
                             <li>
                                 <label class="flex cursor-pointer gap-2 sm:hidden">
